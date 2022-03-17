@@ -1,3 +1,6 @@
 this is file 1 for multiple push
 this file is edited online to check the pull request
+<<<<<<< HEAD
 this for merging the file in git
+=======
+>>>>>>> 2af90f3e5462ffa06be83cd12525e7e329622508
